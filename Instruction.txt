@@ -1,5 +1,6 @@
 1. Create a folder "adb" in the root folder (drive C:) 
 2. Place the files necessary for adb, as well as firmware files in it 
 3. Install the necessary fastboot and adb drivers 
-4. Install the script itself, run it
-5. Enjoy :)
+4. Install the script itself
+5. Run "start.exe" file
+6. Enjoy :)
